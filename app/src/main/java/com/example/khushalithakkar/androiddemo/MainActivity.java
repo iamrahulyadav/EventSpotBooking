@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                // .coordinatorLayout);
 
         //Format code here
+        //Format again - Test Branch
 
 
         btnSignUp = (Button) findViewById(R.id.btnSignUp);

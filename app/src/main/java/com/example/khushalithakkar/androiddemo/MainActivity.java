@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         //coordinatorLayout = (CoordinatorLayout) findViewById(R.id
                // .coordinatorLayout);
 
+        //Format code here
 
 
         btnSignUp = (Button) findViewById(R.id.btnSignUp);
